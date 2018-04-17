@@ -3,7 +3,7 @@
 #include "stdafx.h"
 #include "iostream"
 #include "algorithm"
-#include "cstdlib"  Подключение заголовочного файла для использования rand()
+#include "cstdlib"   <a href="<?php echo $uri ?>lang=ru" class="active-lang">Русский</a> "Подключение заголовочного файла для использования rand()"
 
 using namespace std;
 
