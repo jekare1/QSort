@@ -3,7 +3,7 @@
 #include "stdafx.h"
 #include "iostream"
 #include "algorithm"
-#include "cstdlib"  подключение заголовочного файла для использования rand()
+#include "cstdlib"  Подключение заголовочного файла для использования rand()
 
 using namespace std;
 
